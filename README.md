@@ -1,6 +1,6 @@
-# Ay Bulak
+# Tugan yak
 
-**Ay Bulak** is an upcoming **farming and village life simulation game** where you start a new life on a quiet forest glade, building a village from scratch.
+**Tugan yak** is an upcoming **farming and village life simulation game** where you start a new life on a quiet forest glade, building a village from scratch.
 
 The game is currently in **early development** and is being built from scratch using a custom 2D engine written in **C# + MonoGame**.
 
